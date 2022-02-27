@@ -84,9 +84,7 @@ public class Persona {
         }
     }
 
-    public boolean esMayorDeEdad() {
-        return this.edad >= 18;
-    }
+
 
     public int MayoroMenor(int edad){
         if (this.edad<18){
