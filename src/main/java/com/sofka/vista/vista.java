@@ -42,11 +42,31 @@ public class vista {
 
     }
 
+    public double decimales(String mensaje){
+        double deci=0.0;
+        try{
+            System.out.println(mensaje);
+            deci=entrada.nextDouble();
+            entrada.nextLine();
+        }catch (Exception x){
+            entrada.nextLine();
+            System.out.println("No ha ingreado un numero valido");
+            deci=0.0;
+        }
+        return deci;
+    }
+
     public void informacion(String mensaje) {
         System.out.println(mensaje);
     }
 
 
+    public char next(String mensaje) {
+        char next = ' ';
+        System.out.println(mensaje);
+        next = entrada.next().charAt(0);
+        return next;
 
     }
+}
 
