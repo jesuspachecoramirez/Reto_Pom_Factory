@@ -26,6 +26,21 @@ public class vista {
         }
         return numero;
     }
+    public int respuesta(String mensaje) {
+        int dato = 0;
+        try {
+            System.out.println(mensaje);
+            dato = entrada.nextInt();
+            entrada.nextLine();
+        }catch (Exception x) {
+            entrada.nextLine();
+            System.out.println("No ha ingresado un numero");
+            dato = 0;
+        }
+
+        return dato;
+
+    }
 
     public void informacion(String mensaje) {
         System.out.println(mensaje);
