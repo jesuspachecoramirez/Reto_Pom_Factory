@@ -17,13 +17,7 @@ b
 2src/main/java/com/sofka/ejercicio2/NumMayorv2.java,e\2\e2056ab6dc26c55d683d317f62739f1d43103666
 `
 0src/main/java/com/sofka/ejecicio4/PrecioIva.java,0\d\0da8fb97b7be771b08ba985598c3ac57eb5c65d6
-d
-4src/main/java/com/sofka/ejercicio6/forparEimpar.java,d\e\de078cba1652fb4c4583f67f7d3a3e4c9c5f9291
 _
 /src/main/java/com/sofka/ejercicio7/NumCero.java,8\3\83a1fe8eda65f1befa395ba843a50e83dbc9136e
 a
 1src/main/java/com/sofka/ejercicio5/PareImpar.java,5\d\5d5c7be2bab2b92af137b704889dc65b2f7f591e
-a
-1src/main/java/com/sofka/ejercicio9/rem_texto.java,7\a\7a8f4164a19b2de27b20b0ca295dd242fb3f1e54
-b
-2src/main/java/com/sofka/ejercicio8/diaLaboral.java,f\6\f65bff88a657968c98b2298bc7c8aa74015e8846
